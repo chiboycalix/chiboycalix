@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, my name is Igwe Chinonso </h1>
+### Hey 👋, I'm Igwe Chinonso
+
+[![Github](https://img.shields.io/github/followers/chiboycalix?label=Follow&style=social)](https://github.com/chiboycalix)
+
 <h3 align="center">Currently Doing Hands On Practice on Data Structures and Algorithms & At the Same time I am building some Projects in Web Development & also trying a little bit of Competitive Programming .</h3>
 - 🔭 I’m currently Learning **Data Structures & Algorithms & Golang**
 
